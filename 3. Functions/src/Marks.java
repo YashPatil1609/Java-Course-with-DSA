@@ -12,7 +12,6 @@ public class Marks {
 //        51-60          CD
 //        41-50          DD
 //         <=40          Fail
-
         Scanner input = new Scanner(System.in);
         System.out.print("Enter Your Marks : ");
         int marks = input.nextInt();

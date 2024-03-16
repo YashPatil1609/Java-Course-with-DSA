@@ -1,4 +1,3 @@
-I'm Starting a Java Course with DSA where i will commit my progress daily to this repository..
-Let's do this, really excited !!
-All the codes are in the src directory..
-Since i am using the IntelliJ Idea for this, it creates all the files in the folders itself
+- I'm Starting a Java Course with DSA where i will commit my progress as i go forword with the topics..
+- Let's do this, really excited !!
+- Posting some questions to this repository coded in VSCode and solving rest on LeetCode

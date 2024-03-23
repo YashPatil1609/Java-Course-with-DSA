@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "9. Insertion Sort",
         "8. Selection Sort",
         "7. Bubble Sort",
         "6. Binary Search/.java",
-        "9. Insertion Sort"
+        "10. Cyclic Sort"
     ]
 }

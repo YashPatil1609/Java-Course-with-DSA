@@ -15,5 +15,6 @@ public class Arraylist {
 
         // .set(index,element)  add a element at a particular index
         // .remove(index)   removes a element at the given index
+        in.close();
     }
 }
